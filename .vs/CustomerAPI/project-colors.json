@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "79d28bee-7102-4030-bf17-f36981a69cd2": {
+      "ProjectGuid": "79d28bee-7102-4030-bf17-f36981a69cd2",
+      "DisplayName": "CustomerAPI",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
